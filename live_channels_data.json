@@ -1,0 +1,138 @@
+{
+    "execution_time": 127.06352353096008,
+    "channels": [
+        {
+            "link": "https://www.9now.com.au/live/channel-9",
+            "description": "Home shopping programme.",
+            "schedule": "11:37am - 12:07pm",
+            "category": "Infomercial",
+            "next_program_info": "Up next\nTV Shop - Home Shopping\n12:07pm - 12:36pm"
+        },
+        {
+            "link": "https://www.9now.com.au/live/gem",
+            "description": "A young factory worker decides to stand up against his workmates and fellow union members when they want to hold a wildcat strike. (Oliver Reed, Richard Attenborough)",
+            "schedule": "11:25am - 1:21pm",
+            "category": "Drama",
+            "next_program_info": "Up next\nDangerman\n1:21pm - 2:23pm"
+        },
+        {
+            "link": "https://www.9now.com.au/live/go",
+            "description": "Jeannie writes a book on childcare using Tony's name that becomes a best seller.",
+            "schedule": "11:31am - 12:01pm",
+            "category": "Comedy",
+            "next_program_info": "Up next\nLove During Lockup\n12:01pm - 12:59pm"
+        },
+        {
+            "link": "https://www.9now.com.au/live/life",
+            "description": "Jonathan and Drew must decide whether to back an overwhelmed investor that is quite possibly sitting on a goldmine, or a flipping couple who secured an enviable property but have no idea if they should renovate for higher resale.",
+            "schedule": "11:01am - 12:00pm",
+            "category": "Lifestyle",
+            "next_program_info": "Up next\nHouse Hunters International\n12:00pm - 12:30pm"
+        },
+        {
+            "link": "https://www.9now.com.au/live/rush",
+            "description": "Dustin Hurt faces a dilemma: Risk his life and financial ruin by purchasing and mining one of the most legendary and inhospitable claims in Alaska or play it safe in the white water of McKinley Creek.",
+            "schedule": "11:30am - 12:34pm",
+            "category": "Reality Drama",
+            "next_program_info": "Up next\nGold Rush: Dave Turin's Lost Mine\n12:34pm - 1:32pm"
+        },
+        {
+            "link": "https://www.9now.com.au/live/bbc-top-gear-247",
+            "description": "Richards takes an American Mustang car on a road movie across Lincolnshire. Contains Strong Language.",
+            "schedule": "11:02am - 12:01pm",
+            "category": "BBC",
+            "next_program_info": "Up next\nTop Gear UK\nEpisode 8\n12:01pm - 12:58pm"
+        },
+        {
+            "link": "https://www.9now.com.au/live/bbc-comedy",
+            "description": "Michael is joined by presenter Holly Willoughby, magician Dynamo and actor Ray Winstone.",
+            "schedule": "11:40am - 12:26pm",
+            "category": "BBC",
+            "next_program_info": "Up next\nMichael McIntyre's Chat Show\nSeason 1 - Sir Bruce Forsyth/James Corden/Alex Jones\n12:26pm - 1:18pm"
+        },
+        {
+            "link": "https://www.9now.com.au/live/bbc-food",
+            "description": "Delia makes a selection of seafood dishes which are perfect for Winter.",
+            "schedule": "11:37am - 12:07pm",
+            "category": "BBC",
+            "next_program_info": "Up next\nDelia Smith's Winter Collection\nSeason 1 - Proper Pudding and Sunday Lunch\n12:07pm - 12:38pm"
+        },
+        {
+            "link": "https://www.9now.com.au/live/lmn",
+            "description": "(M) Single-mom Karen is focused on getting daughter Emily graduated and off to college. But when she hires Devin to boost Emily's grades, the tutor becomes obsessed.",
+            "schedule": "11:44am - 1:13pm",
+            "category": "Movies",
+            "next_program_info": "Up next\nStalked By My Ex\n1:13pm - 2:44pm"
+        },
+        {
+            "link": "https://www.9now.com.au/live/seinfeld",
+            "description": "(PG) After enough courage to call a girl for a second date, George gets her answering machine then blurts out a nasty message. He talks Jerry into helping get rid of the message.",
+            "schedule": "11:51am - 12:16pm",
+            "category": "Comedy",
+            "next_program_info": "Up next\nSeinfeld\nSeason 7 - Ep 21 The Bottle Deposit (Part 1)\n12:16pm - 12:40pm"
+        },
+        {
+            "link": "https://www.9now.com.au/live/9crime",
+            "description": "(M) He seems like a great partner, but when a mum and son disappear, it turns out \"Mr. Right\" has a secret. Then, when a young man is shot in a street confrontation.",
+            "schedule": "11:29am - 12:17pm",
+            "category": "True Crime",
+            "next_program_info": "Up next\nMurder in the 21st\nSeason 1 - Ep 6 In Plain Sight\n12:20pm - 1:08pm"
+        },
+        {
+            "link": "https://www.9now.com.au/live/bbc-earth",
+            "description": "The once mighty mongoose mob have been forced to move den",
+            "schedule": "11:47am - 12:20pm",
+            "category": "BBC",
+            "next_program_info": "Up next\nBanded Brothers: The Mongoose Mob\nEpisode 2\n12:20pm - 12:52pm"
+        },
+        {
+            "link": "https://www.9now.com.au/live/bbc-antiques-roadshow-247",
+            "description": "Finds include a brooch given by the Queen Mother to her head chef in 1937.",
+            "schedule": "11:21am - 12:14pm",
+            "category": "BBC",
+            "next_program_info": "Up next\nAntiques Roadshow\nSeason 27 - Edinburgh\n12:14pm - 1:07pm"
+        },
+        {
+            "link": "https://www.9now.com.au/live/bbc-home-garden",
+            "description": "Caroline and Brad want to leave London behind, back home in Caroline's native Yorkshire.",
+            "schedule": "11:32am - 12:22pm",
+            "category": "BBC",
+            "next_program_info": "Up next\nBig House Little House\nSeason 1 - Episode 13\n12:22pm - 1:13pm"
+        },
+        {
+            "link": "https://www.9now.com.au/live/60-minutes-australia",
+            "description": "(NA) Russia attempts to start a new cold war.",
+            "schedule": "11:44am - 11:59am",
+            "category": "News & Current Affairs",
+            "next_program_info": "Up next\n60 Minutes Australia 24/7\nSeason 2017 - Ep 121 The Russian Connection\n12:00pm - 12:13pm"
+        },
+        {
+            "link": "https://www.9now.com.au/live/the-block-247",
+            "description": "(PG) Two more teams of fans go head to head in a 24-hour challenge. The winners will be the second and final team of fans to move into The Block.",
+            "schedule": "11:36am - 12:30pm",
+            "category": "Lifestyle",
+            "next_program_info": "Up next\nThe Block\nSeason 8 - Ep 3 Fans Meet Faves\n12:30pm - 1:24pm"
+        },
+        {
+            "link": "https://www.9now.com.au/live/married-at-first-sight",
+            "description": "(PG) Emotions run high heading into the next commitment ceremony. There are big leaps as some are falling for each other, others are moving in, and two couples split.",
+            "schedule": "10:44am - 12:01pm",
+            "category": "Reality",
+            "next_program_info": "Up next\nMarried at First Sight\nSeason 6 - Episode 30\n12:01pm - 1:10pm"
+        },
+        {
+            "link": "https://www.9now.com.au/live/dance-moms-247",
+            "description": "(PG) When Cathy learns her Dance Mom Jill and daughter Kendal have gone back to the Abby Lee Dance Company, she plots her revenge at the next competition.",
+            "schedule": "11:16am - 12:01pm",
+            "category": "Reality",
+            "next_program_info": "Up next\nDance Moms\nSeason 2 - Ep 24 Recital to End All Recitals, The\n12:01pm - 12:46pm"
+        },
+        {
+            "link": "https://www.9now.com.au/live/pedestrian-television",
+            "description": "(PG) Kandagawa sends his challenger Jinichi Tateyama to take on his mentor in French cuisine, Iron Chef Sakai.",
+            "schedule": "11:52am - 12:36pm",
+            "category": "Lifestyle",
+            "next_program_info": "Up next\nIron Chef\nSeason 7 - Ep 12 Battle Shitake Mushrooms\n12:36pm - 1:20pm"
+        }
+    ]
+}

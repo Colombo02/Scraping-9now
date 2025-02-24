@@ -1,0 +1,218 @@
+{
+    "day": "Mon\n24 FEB",
+    "execution_time": 112.09893417358398,
+    "programs": {
+        "Nine": [
+            {
+                "name": "World's Greatest Myths and Mysteries",
+                "link": "https://tvguide.9now.com.au/program/worlds-greatest-myths-and-mysteries/434208/",
+                "info": {
+                    "time": "12:00AM - 1:00AM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "We explore ancient wonders and lost artefacts, from Pompeii's ruins and Egypt's Great Pyramid to Angkor Wat's carvings. Dark tales emerge revealing myths.",
+                    "tags": "DOCUMENTARY | AUSTRALIA | 2024 | PG"
+                }
+            },
+            {
+                "name": "Destination WA",
+                "link": "https://tvguide.9now.com.au/program/destination-wa/157711/",
+                "info": {
+                    "time": "1:00AM - 1:30AM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Trevor's got an eye for outback fashion at the Enchanted Colours runway event, Kate sees a kaleidoscope of colour, bringing cultural diversity to fashion, and Trevor's searching for pearls again at Willie Creek Pearl Farm.",
+                    "tags": "TRAVEL | AUSTRALIA | 2024 | G"
+                }
+            },
+            {
+                "name": "TV Shop - Home Shopping",
+                "link": "https://tvguide.9now.com.au/program/tv-shop-home-shopping/184500/",
+                "info": {
+                    "time": "1:30AM - 2:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Home shopping program.",
+                    "tags": "SHOPPING | USA | 2023 | G"
+                }
+            }
+        ],
+        "9Now": [
+            {
+                "name": "Married At First Sight",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Fmarried-at-first-sight&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Fmarried-at-first-sight&ocid=nine.com.au-9now-a11985-tvguide&~campaign=married-at-first-sight&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "Australian Crime Stories: The Investigators",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Faustralian-crime-stories-the-investigators&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Faustralian-crime-stories-the-investigators&ocid=nine.com.au-9now-a11985-tvguide&~campaign=australian-crime-stories-the-investigators&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "Big Miracles",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Fbig-miracles&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Fbig-miracles&ocid=nine.com.au-9now-a11985-tvguide&~campaign=big-miracles&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            }
+        ],
+        "9HD": [
+            {
+                "name": "World's Greatest Myths and Mysteries",
+                "link": "https://tvguide.9now.com.au/program/worlds-greatest-myths-and-mysteries/434208/",
+                "info": {
+                    "time": "12:00AM - 1:00AM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "We explore ancient wonders and lost artefacts, from Pompeii's ruins and Egypt's Great Pyramid to Angkor Wat's carvings. Dark tales emerge revealing myths.",
+                    "tags": "DOCUMENTARY | AUSTRALIA | 2024 | PG"
+                }
+            },
+            {
+                "name": "Destination WA",
+                "link": "https://tvguide.9now.com.au/program/destination-wa/157711/",
+                "info": {
+                    "time": "1:00AM - 1:30AM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Trevor's got an eye for outback fashion at the Enchanted Colours runway event, Kate sees a kaleidoscope of colour, bringing cultural diversity to fashion, and Trevor's searching for pearls again at Willie Creek Pearl Farm.",
+                    "tags": "TRAVEL | AUSTRALIA | 2024 | G"
+                }
+            },
+            {
+                "name": "TV Shop - Home Shopping",
+                "link": "https://tvguide.9now.com.au/program/tv-shop-home-shopping/184500/",
+                "info": {
+                    "time": "1:30AM - 2:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Home shopping program.",
+                    "tags": "SHOPPING | USA | 2023 | G"
+                }
+            }
+        ],
+        "9Gem": [
+            {
+                "name": "Every Home Should Have One",
+                "link": "https://tvguide.9now.com.au/program/every-home-should-have-one/200322/",
+                "info": {
+                    "time": "12:30AM - 2:30AM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Teddy works for a large advertising company. Given the seemingly impossible task of selling porridge, he decides to produce commercials which make the product seem sexy.",
+                    "tags": "COMEDY | UK | 1970 | M"
+                }
+            },
+            {
+                "name": "Rich and Strange",
+                "link": "https://tvguide.9now.com.au/program/rich-and-strange/116857/",
+                "info": {
+                    "time": "2:30AM - 4:15AM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Believing that an unexpected inheritance will bring them happiness, a married couple instead finds their relationship strained to the breaking point.",
+                    "tags": "COMEDY | UK | 1931 | PG"
+                }
+            }
+        ],
+        "9Go!": [
+            {
+                "name": "Arrow",
+                "link": "https://tvguide.9now.com.au/program/arrow/296285/",
+                "info": {
+                    "time": "12:35AM - 1:35AM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "A vicious criminal is released from prison and tries to regain his position as leader of the underworld. His first task is to take down his biggest threat, Arrow.",
+                    "tags": "ACTION | USA | 2012 | M"
+                }
+            },
+            {
+                "name": "Arrow",
+                "link": "https://tvguide.9now.com.au/program/arrow/296285/",
+                "info": {
+                    "time": "1:35AM - 2:30AM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Oliver is shot and turns to Felicity for help. While he hovers between life and death, Oliver recalls a daring escape attempt with Slade Wilson on the island.",
+                    "tags": "ACTION | USA | 2012 | M"
+                }
+            }
+        ],
+        "9Life": [
+            {
+                "name": "Barnwood Builders",
+                "link": "https://tvguide.9now.com.au/program/barnwood-builders/347276/",
+                "info": {
+                    "time": "12:00AM - 1:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Mark Bowe and his crew salvage antique barns and cabins, reusing the wood to create stunning modern homes. His crew are devoted to salvaging, and will stop at nothing to give old structures new life.",
+                    "tags": "REALITY/REAL-LIFE | USA | 2024 | G"
+                }
+            },
+            {
+                "name": "Zombie House Flipping",
+                "link": "https://tvguide.9now.com.au/program/zombie-house-flipping/351025/",
+                "info": {
+                    "time": "1:00AM - 2:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Looks can be deceiving. This Derek special is set in a posh neighborhood on a treelined street and from the outside it doesn't look like your typical Zombie.",
+                    "tags": "LIFESTYLE | USA | 2024 | PG"
+                }
+            },
+            {
+                "name": "Postcards",
+                "link": "https://tvguide.9now.com.au/program/postcards/133224/",
+                "info": {
+                    "time": "2:00AM - 2:30AM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "Guest presenter Yvie Jones finds New York inspired pizza in Thornbury. Madeline experiences small town charm in the street of Birregurra. Shane discovers hidden gems in Keilor. And Steve embraces fun activities in the Bayside.",
+                    "tags": "TRAVEL | AUSTRALIA | 2025 | PG"
+                }
+            }
+        ],
+        "9Rush": [
+            {
+                "name": "Expedition X",
+                "link": "https://tvguide.9now.com.au/program/expedition-x/402351/",
+                "info": {
+                    "time": "12:30AM - 1:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Josh Gates is on the ground with Jessica Chobot and Phil Torres to chase reports of a half-man, half-beast in rural Wisconsin. Frequent attacks and new sightings have left locals crippled with fear.",
+                    "tags": "REALITY/REAL-LIFE | USA | 2020 | M"
+                }
+            },
+            {
+                "name": "Nature's Strangest Mysteries: Solved",
+                "link": "https://tvguide.9now.com.au/program/natures-strangest-mysteries-solved/387087/",
+                "info": {
+                    "time": "1:30AM - 2:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Experts reveal how a bird could sing without using its voice and how an octopus could simply disappear from his aquarium tank. These could be two of nature's greatest illusionists.",
+                    "tags": "DOCUMENTARY | USA | 2019 | PG"
+                }
+            }
+        ]
+    }
+}
