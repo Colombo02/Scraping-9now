@@ -1,6 +1,6 @@
 {
     "day": "Mon\n24 FEB",
-    "execution_time": 112.09893417358398,
+    "execution_time": 1084.9360647201538,
     "programs": {
         "Nine": [
             {
@@ -35,6 +35,248 @@
                     "description": "Home shopping program.",
                     "tags": "SHOPPING | USA | 2023 | G"
                 }
+            },
+            {
+                "name": "TV Shop - Home Shopping",
+                "link": "https://tvguide.9now.com.au/program/tv-shop-home-shopping/184500/",
+                "info": {
+                    "time": "2:00AM - 2:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Home shopping program.",
+                    "tags": "SHOPPING | USA | 2023 | G"
+                }
+            },
+            {
+                "name": "TV Shop - Home Shopping",
+                "link": "https://tvguide.9now.com.au/program/tv-shop-home-shopping/184500/",
+                "info": {
+                    "time": "2:30AM - 3:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Home shopping program.",
+                    "tags": "SHOPPING | USA | 2023 | G"
+                }
+            },
+            {
+                "name": "TV Shop - Home Shopping",
+                "link": "https://tvguide.9now.com.au/program/tv-shop-home-shopping/184500/",
+                "info": {
+                    "time": "3:00AM - 3:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Home shopping program.",
+                    "tags": "SHOPPING | USA | 2023 | G"
+                }
+            },
+            {
+                "name": "TV Shop - Home Shopping",
+                "link": "https://tvguide.9now.com.au/program/tv-shop-home-shopping/184500/",
+                "info": {
+                    "time": "3:30AM - 4:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Home shopping program.",
+                    "tags": "SHOPPING | USA | 2023 | G"
+                }
+            },
+            {
+                "name": "Believer's Voice of Victory",
+                "link": "https://tvguide.9now.com.au/program/believers-voice-of-victory/172573/",
+                "info": {
+                    "time": "4:00AM - 4:30AM",
+                    "subtitles": "None",
+                    "repeat": "",
+                    "description": "The mission of Kenneth Copeland Ministries and Eagle Mountain International Church is to teach Christians worldwide who they are in Christ Jesus and how to live a victorious life in their covenant rights and privileges.",
+                    "tags": "RELIGION | USA | 2025 | PG"
+                }
+            },
+            {
+                "name": "Surfing Australia TV",
+                "link": "https://tvguide.9now.com.au/program/surfing-australia-tv/338433/",
+                "info": {
+                    "time": "4:30AM - 5:00AM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Showcases Surfing Australia's programs from junior development through to the elite athletes in surfing.",
+                    "tags": "SPORT | AUSTRALIA | 2025 | G"
+                }
+            },
+            {
+                "name": "Today Early News",
+                "link": "https://tvguide.9now.com.au/program/today-early-news/428725/",
+                "info": {
+                    "time": "5:00AM - 5:30AM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.",
+                    "tags": "NEWS | AUSTRALIA | 2025 | NC"
+                }
+            },
+            {
+                "name": "Today",
+                "link": "https://tvguide.9now.com.au/program/today/100687/",
+                "info": {
+                    "time": "5:30AM - 9:00AM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "Karl Stefanovic, Sarah Abo and the team present the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.",
+                    "tags": "NEWS | AUSTRALIA | 2025 | NC"
+                }
+            },
+            {
+                "name": "Today Extra",
+                "link": "https://tvguide.9now.com.au/program/today-extra/134254/",
+                "info": {
+                    "time": "9:00AM - 11:30AM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "An exciting mix of topical issues, the best celebrity interviews, cooking with Australia's top chefs, live music performances, and the latest in fashion and beauty trends.",
+                    "tags": "VARIETY | AUSTRALIA | 2025 | PG"
+                }
+            },
+            {
+                "name": "9News Morning",
+                "link": "https://tvguide.9now.com.au/program/9news-morning/426816/",
+                "info": {
+                    "time": "11:30AM - 12:00PM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "Join 9News for up to the minute news on local and international news including sport and weather.",
+                    "tags": "NEWS | AUSTRALIA | 2025 | NC"
+                }
+            },
+            {
+                "name": "Married at First Sight",
+                "link": "https://tvguide.9now.com.au/program/married-at-first-sight/311372/",
+                "info": {
+                    "time": "12:00PM - 2:00PM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Commitment Ceremony. A shock decision to part ways leaves one bride with serious regrets.",
+                    "tags": "REALITY/REAL-LIFE | AUSTRALIA | 2025 | PG"
+                }
+            },
+            {
+                "name": "Pointless",
+                "link": "https://tvguide.9now.com.au/program/pointless/325129/",
+                "info": {
+                    "time": "2:00PM - 3:00PM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Hosted by Alexander Armstrong. Four teams of two contestants attempt to find correct answers to four rounds of general knowledge questions, with the winning team eligible to compete for the show's cash jackpot.",
+                    "tags": "GAME SHOW | UK | 2023 | PG"
+                }
+            },
+            {
+                "name": "Tipping Point",
+                "link": "https://tvguide.9now.com.au/program/tipping-point/331700/",
+                "info": {
+                    "time": "3:00PM - 4:00PM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "There are mystery prizes and a jaw-dropping jackpot up for grabs for any player with the skill and strategy to see off their human rivals and conquer the machine. Hosted by Ben Shepherd.",
+                    "tags": "GAME SHOW | UK | 2022 | PG"
+                }
+            },
+            {
+                "name": "9News Afternoon",
+                "link": "https://tvguide.9now.com.au/program/9news-afternoon/426775/",
+                "info": {
+                    "time": "4:00PM - 5:00PM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "9News Afternoon, live and local with the latest news across Australia and around the world including sport and weather.",
+                    "tags": "NEWS | AUSTRALIA | 2025 | NC"
+                }
+            },
+            {
+                "name": "Tipping Point Australia",
+                "link": "https://tvguide.9now.com.au/program/tipping-point-australia/426483/",
+                "info": {
+                    "time": "5:00PM - 6:00PM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "Tipping Point Australia will push contestants' luck to the very edge. Three contestants will go head to head against the mesmerising machine with one lucky contestant playing for the Jackpot. Hosted by Todd Woodbridge.",
+                    "tags": "GAME SHOW | AUSTRALIA | 2025 | PG"
+                }
+            },
+            {
+                "name": "9News",
+                "link": "https://tvguide.9now.com.au/program/9news/426774/",
+                "info": {
+                    "time": "6:00PM - 7:00PM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "Join 9News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.",
+                    "tags": "NEWS | AUSTRALIA | 2025 | NC"
+                }
+            },
+            {
+                "name": "A Current Affair",
+                "link": "https://tvguide.9now.com.au/program/a-current-affair/131990/",
+                "info": {
+                    "time": "7:00PM - 7:30PM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "Covers the realms of politics, crime, human rights, science, technology, celebrities, and entertainment, all investigated by a dedicated team.",
+                    "tags": "CURRENT AFFAIRS | AUSTRALIA | 2025 | NC"
+                }
+            },
+            {
+                "name": "Married at First Sight",
+                "link": "https://tvguide.9now.com.au/program/married-at-first-sight/311372/",
+                "info": {
+                    "time": "7:30PM - 9:00PM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "Meet the Family Week. When the couples' family and friends get together some relationships are strengthened while others are tested to the limit.",
+                    "tags": "REALITY/REAL-LIFE | AUSTRALIA | 2025 | M"
+                }
+            },
+            {
+                "name": "ACS: The Investigators",
+                "link": "https://tvguide.9now.com.au/program/acs-the-investigators/425822/",
+                "info": {
+                    "time": "9:00PM - 10:10PM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "No body, no witnesses, no DNA, so how did Detective Dennis Bray solve the most notorious kidnapping in Australia's history?",
+                    "tags": "CRIME | AUSTRALIA | 2024 | M"
+                }
+            },
+            {
+                "name": "Life and Murder of Nicole Brown Simpson",
+                "link": "https://tvguide.9now.com.au/program/life-and-murder-of-nicole-brown-simpson/434858/",
+                "info": {
+                    "time": "10:10PM - 11:10PM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "18-year-old Nicole Brown meets 30-year-old superstar OJ Simpson, embarking on a whirlwind romance. While she maintains an exterior of the perfect housewife and mother, she privately suffers OJ's abuse and control.",
+                    "tags": "DOCUMENTARY | USA | 2024 | M"
+                }
+            },
+            {
+                "name": "9News Late",
+                "link": "https://tvguide.9now.com.au/program/9news-late/427243/",
+                "info": {
+                    "time": "11:10PM - 11:40PM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "Join the 9News Late team for all of the day's top stories from Australia and around the world.",
+                    "tags": "NEWS | AUSTRALIA | 2025 | NC"
+                }
+            },
+            {
+                "name": "First on Scene",
+                "link": "https://tvguide.9now.com.au/program/first-on-scene/433012/",
+                "info": {
+                    "time": "11:40PM - 12:05AM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Experience the raw moments captured by video journalists and hear the stories behind the headlines from those first on scene.",
+                    "tags": "DOCUMENTARY | USA | 2022 | M"
+                }
             }
         ],
         "9Now": [
@@ -63,6 +305,237 @@
             {
                 "name": "Big Miracles",
                 "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Fbig-miracles&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Fbig-miracles&ocid=nine.com.au-9now-a11985-tvguide&~campaign=big-miracles&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "60 Minutes",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2F60-minutes&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2F60-minutes&ocid=nine.com.au-9now-a11985-tvguide&~campaign=60-minutes&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "American Tragedy The Gabby Petito Story",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Famerican-tragedy-the-gabby-petito-story&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Famerican-tragedy-the-gabby-petito-story&ocid=nine.com.au-9now-a11985-tvguide&~campaign=american-tragedy-the-gabby-petito-story&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "Madam",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Fmadam&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Fmadam&ocid=nine.com.au-9now-a11985-tvguide&~campaign=madam&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "Married At First Sight",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Fmarried-at-first-sight&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Fmarried-at-first-sight&ocid=nine.com.au-9now-a11985-tvguide&~campaign=married-at-first-sight&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "Australian Crime Stories: The Investigators",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Faustralian-crime-stories-the-investigators&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Faustralian-crime-stories-the-investigators&ocid=nine.com.au-9now-a11985-tvguide&~campaign=australian-crime-stories-the-investigators&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "Big Miracles",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Fbig-miracles&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Fbig-miracles&ocid=nine.com.au-9now-a11985-tvguide&~campaign=big-miracles&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "60 Minutes",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2F60-minutes&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2F60-minutes&ocid=nine.com.au-9now-a11985-tvguide&~campaign=60-minutes&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "American Tragedy The Gabby Petito Story",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Famerican-tragedy-the-gabby-petito-story&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Famerican-tragedy-the-gabby-petito-story&ocid=nine.com.au-9now-a11985-tvguide&~campaign=american-tragedy-the-gabby-petito-story&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "Madam",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Fmadam&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Fmadam&ocid=nine.com.au-9now-a11985-tvguide&~campaign=madam&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "Married At First Sight",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Fmarried-at-first-sight&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Fmarried-at-first-sight&ocid=nine.com.au-9now-a11985-tvguide&~campaign=married-at-first-sight&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "Australian Crime Stories: The Investigators",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Faustralian-crime-stories-the-investigators&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Faustralian-crime-stories-the-investigators&ocid=nine.com.au-9now-a11985-tvguide&~campaign=australian-crime-stories-the-investigators&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "Big Miracles",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Fbig-miracles&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Fbig-miracles&ocid=nine.com.au-9now-a11985-tvguide&~campaign=big-miracles&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "60 Minutes",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2F60-minutes&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2F60-minutes&ocid=nine.com.au-9now-a11985-tvguide&~campaign=60-minutes&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "American Tragedy The Gabby Petito Story",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Famerican-tragedy-the-gabby-petito-story&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Famerican-tragedy-the-gabby-petito-story&ocid=nine.com.au-9now-a11985-tvguide&~campaign=american-tragedy-the-gabby-petito-story&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "Madam",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Fmadam&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Fmadam&ocid=nine.com.au-9now-a11985-tvguide&~campaign=madam&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "Married At First Sight",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Fmarried-at-first-sight&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Fmarried-at-first-sight&ocid=nine.com.au-9now-a11985-tvguide&~campaign=married-at-first-sight&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "Australian Crime Stories: The Investigators",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Faustralian-crime-stories-the-investigators&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Faustralian-crime-stories-the-investigators&ocid=nine.com.au-9now-a11985-tvguide&~campaign=australian-crime-stories-the-investigators&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "Big Miracles",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Fbig-miracles&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Fbig-miracles&ocid=nine.com.au-9now-a11985-tvguide&~campaign=big-miracles&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "60 Minutes",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2F60-minutes&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2F60-minutes&ocid=nine.com.au-9now-a11985-tvguide&~campaign=60-minutes&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "American Tragedy The Gabby Petito Story",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Famerican-tragedy-the-gabby-petito-story&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Famerican-tragedy-the-gabby-petito-story&ocid=nine.com.au-9now-a11985-tvguide&~campaign=american-tragedy-the-gabby-petito-story&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
+                "info": {
+                    "time": "None",
+                    "subtitles": "None",
+                    "repeat": "None",
+                    "description": "None",
+                    "tags": "None"
+                }
+            },
+            {
+                "name": "Madam",
+                "link": "https://9now.app.link/?$canonical_url=https%3A%2F%2Fwww.9now.com.au%2Fmadam&$desktop_url=https%3A%2F%2Fwww.9now.com.au%2Fmadam&ocid=nine.com.au-9now-a11985-tvguide&~campaign=madam&~channel=nine.com.au_TV_Guide&~feature=Content_Discovery_Referrals",
                 "info": {
                     "time": "None",
                     "subtitles": "None",
@@ -105,6 +578,248 @@
                     "description": "Home shopping program.",
                     "tags": "SHOPPING | USA | 2023 | G"
                 }
+            },
+            {
+                "name": "TV Shop - Home Shopping",
+                "link": "https://tvguide.9now.com.au/program/tv-shop-home-shopping/184500/",
+                "info": {
+                    "time": "2:00AM - 2:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Home shopping program.",
+                    "tags": "SHOPPING | USA | 2023 | G"
+                }
+            },
+            {
+                "name": "TV Shop - Home Shopping",
+                "link": "https://tvguide.9now.com.au/program/tv-shop-home-shopping/184500/",
+                "info": {
+                    "time": "2:30AM - 3:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Home shopping program.",
+                    "tags": "SHOPPING | USA | 2023 | G"
+                }
+            },
+            {
+                "name": "TV Shop - Home Shopping",
+                "link": "https://tvguide.9now.com.au/program/tv-shop-home-shopping/184500/",
+                "info": {
+                    "time": "3:00AM - 3:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Home shopping program.",
+                    "tags": "SHOPPING | USA | 2023 | G"
+                }
+            },
+            {
+                "name": "TV Shop - Home Shopping",
+                "link": "https://tvguide.9now.com.au/program/tv-shop-home-shopping/184500/",
+                "info": {
+                    "time": "3:30AM - 4:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Home shopping program.",
+                    "tags": "SHOPPING | USA | 2023 | G"
+                }
+            },
+            {
+                "name": "Believer's Voice of Victory",
+                "link": "https://tvguide.9now.com.au/program/believers-voice-of-victory/172573/",
+                "info": {
+                    "time": "4:00AM - 4:30AM",
+                    "subtitles": "None",
+                    "repeat": "",
+                    "description": "The mission of Kenneth Copeland Ministries and Eagle Mountain International Church is to teach Christians worldwide who they are in Christ Jesus and how to live a victorious life in their covenant rights and privileges.",
+                    "tags": "RELIGION | USA | 2025 | PG"
+                }
+            },
+            {
+                "name": "Surfing Australia TV",
+                "link": "https://tvguide.9now.com.au/program/surfing-australia-tv/338433/",
+                "info": {
+                    "time": "4:30AM - 5:00AM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Showcases Surfing Australia's programs from junior development through to the elite athletes in surfing.",
+                    "tags": "SPORT | AUSTRALIA | 2025 | G"
+                }
+            },
+            {
+                "name": "Today Early News",
+                "link": "https://tvguide.9now.com.au/program/today-early-news/428725/",
+                "info": {
+                    "time": "5:00AM - 5:30AM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "Today Early News with up to date news from Australia and around the world as well as the latest in sport and weather.",
+                    "tags": "NEWS | AUSTRALIA | 2025 | NC"
+                }
+            },
+            {
+                "name": "Today",
+                "link": "https://tvguide.9now.com.au/program/today/100687/",
+                "info": {
+                    "time": "5:30AM - 9:00AM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "Karl Stefanovic, Sarah Abo and the team present the latest in news, current affairs, sports, politics, entertainment, fashion, health and lifestyle.",
+                    "tags": "NEWS | AUSTRALIA | 2025 | NC"
+                }
+            },
+            {
+                "name": "Today Extra",
+                "link": "https://tvguide.9now.com.au/program/today-extra/134254/",
+                "info": {
+                    "time": "9:00AM - 11:30AM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "An exciting mix of topical issues, the best celebrity interviews, cooking with Australia's top chefs, live music performances, and the latest in fashion and beauty trends.",
+                    "tags": "VARIETY | AUSTRALIA | 2025 | PG"
+                }
+            },
+            {
+                "name": "9News Morning",
+                "link": "https://tvguide.9now.com.au/program/9news-morning/426816/",
+                "info": {
+                    "time": "11:30AM - 12:00PM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "Join 9News for up to the minute news on local and international news including sport and weather.",
+                    "tags": "NEWS | AUSTRALIA | 2025 | NC"
+                }
+            },
+            {
+                "name": "Married at First Sight",
+                "link": "https://tvguide.9now.com.au/program/married-at-first-sight/311372/",
+                "info": {
+                    "time": "12:00PM - 2:00PM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Commitment Ceremony. A shock decision to part ways leaves one bride with serious regrets.",
+                    "tags": "REALITY/REAL-LIFE | AUSTRALIA | 2025 | PG"
+                }
+            },
+            {
+                "name": "Pointless",
+                "link": "https://tvguide.9now.com.au/program/pointless/325129/",
+                "info": {
+                    "time": "2:00PM - 3:00PM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Hosted by Alexander Armstrong. Four teams of two contestants attempt to find correct answers to four rounds of general knowledge questions, with the winning team eligible to compete for the show's cash jackpot.",
+                    "tags": "GAME SHOW | UK | 2023 | PG"
+                }
+            },
+            {
+                "name": "Tipping Point",
+                "link": "https://tvguide.9now.com.au/program/tipping-point/331700/",
+                "info": {
+                    "time": "3:00PM - 4:00PM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "There are mystery prizes and a jaw-dropping jackpot up for grabs for any player with the skill and strategy to see off their human rivals and conquer the machine. Hosted by Ben Shepherd.",
+                    "tags": "GAME SHOW | UK | 2022 | PG"
+                }
+            },
+            {
+                "name": "9News Afternoon",
+                "link": "https://tvguide.9now.com.au/program/9news-afternoon/426775/",
+                "info": {
+                    "time": "4:00PM - 5:00PM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "9News Afternoon, live and local with the latest news across Australia and around the world including sport and weather.",
+                    "tags": "NEWS | AUSTRALIA | 2025 | NC"
+                }
+            },
+            {
+                "name": "Tipping Point Australia",
+                "link": "https://tvguide.9now.com.au/program/tipping-point-australia/426483/",
+                "info": {
+                    "time": "5:00PM - 6:00PM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "Tipping Point Australia will push contestants' luck to the very edge. Three contestants will go head to head against the mesmerising machine with one lucky contestant playing for the Jackpot. Hosted by Todd Woodbridge.",
+                    "tags": "GAME SHOW | AUSTRALIA | 2025 | PG"
+                }
+            },
+            {
+                "name": "9News",
+                "link": "https://tvguide.9now.com.au/program/9news/426774/",
+                "info": {
+                    "time": "6:00PM - 7:00PM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "Join 9News for the latest in news and events that affect you in your local city, as well as news from across Australia and the world.",
+                    "tags": "NEWS | AUSTRALIA | 2025 | NC"
+                }
+            },
+            {
+                "name": "A Current Affair",
+                "link": "https://tvguide.9now.com.au/program/a-current-affair/131990/",
+                "info": {
+                    "time": "7:00PM - 7:30PM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "Covers the realms of politics, crime, human rights, science, technology, celebrities, and entertainment, all investigated by a dedicated team.",
+                    "tags": "CURRENT AFFAIRS | AUSTRALIA | 2025 | NC"
+                }
+            },
+            {
+                "name": "Married at First Sight",
+                "link": "https://tvguide.9now.com.au/program/married-at-first-sight/311372/",
+                "info": {
+                    "time": "7:30PM - 9:00PM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "Meet the Family Week. When the couples' family and friends get together some relationships are strengthened while others are tested to the limit.",
+                    "tags": "REALITY/REAL-LIFE | AUSTRALIA | 2025 | M"
+                }
+            },
+            {
+                "name": "ACS: The Investigators",
+                "link": "https://tvguide.9now.com.au/program/acs-the-investigators/425822/",
+                "info": {
+                    "time": "9:00PM - 10:10PM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "No body, no witnesses, no DNA, so how did Detective Dennis Bray solve the most notorious kidnapping in Australia's history?",
+                    "tags": "CRIME | AUSTRALIA | 2024 | M"
+                }
+            },
+            {
+                "name": "Life and Murder of Nicole Brown Simpson",
+                "link": "https://tvguide.9now.com.au/program/life-and-murder-of-nicole-brown-simpson/434858/",
+                "info": {
+                    "time": "10:10PM - 11:10PM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "18-year-old Nicole Brown meets 30-year-old superstar OJ Simpson, embarking on a whirlwind romance. While she maintains an exterior of the perfect housewife and mother, she privately suffers OJ's abuse and control.",
+                    "tags": "DOCUMENTARY | USA | 2024 | M"
+                }
+            },
+            {
+                "name": "9News Late",
+                "link": "https://tvguide.9now.com.au/program/9news-late/427243/",
+                "info": {
+                    "time": "11:10PM - 11:40PM",
+                    "subtitles": "CC",
+                    "repeat": "",
+                    "description": "Join the 9News Late team for all of the day's top stories from Australia and around the world.",
+                    "tags": "NEWS | AUSTRALIA | 2025 | NC"
+                }
+            },
+            {
+                "name": "First on Scene",
+                "link": "https://tvguide.9now.com.au/program/first-on-scene/433012/",
+                "info": {
+                    "time": "11:40PM - 12:05AM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Experience the raw moments captured by video journalists and hear the stories behind the headlines from those first on scene.",
+                    "tags": "DOCUMENTARY | USA | 2022 | M"
+                }
             }
         ],
         "9Gem": [
@@ -129,6 +844,259 @@
                     "description": "Believing that an unexpected inheritance will bring them happiness, a married couple instead finds their relationship strained to the breaking point.",
                     "tags": "COMEDY | UK | 1931 | PG"
                 }
+            },
+            {
+                "name": "The Scarlet Blade",
+                "link": "https://tvguide.9now.com.au/program/the-scarlet-blade/281331/",
+                "info": {
+                    "time": "4:15AM - 6:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "This historical adventure is set during the English Civil War. When King Charles I is captured by Roundhead forces it is up to a band of locals loyal to the King to try and rescue him.",
+                    "tags": "ADVENTURE | UK | 1964 | PG"
+                }
+            },
+            {
+                "name": "Danger Man",
+                "link": "https://tvguide.9now.com.au/program/danger-man/138745/",
+                "info": {
+                    "time": "6:00AM - 7:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "A security investigator travels worldwide.",
+                    "tags": "THRILLER | UK | 1961 | PG"
+                }
+            },
+            {
+                "name": "Creflo Dollar Ministries",
+                "link": "https://tvguide.9now.com.au/program/creflo-dollar-ministries/274896/",
+                "info": {
+                    "time": "7:00AM - 7:30AM",
+                    "subtitles": "None",
+                    "repeat": "",
+                    "description": "",
+                    "tags": "RELIGION | USA | 2025 | PG"
+                }
+            },
+            {
+                "name": "Skippy - The Bush Kangaroo",
+                "link": "https://tvguide.9now.com.au/program/skippy-the-bush-kangaroo/132554/",
+                "info": {
+                    "time": "7:30AM - 8:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "When Maggie Roderick becomes embroiled with smugglers, she turns to her boyfriend Jerry King for help.",
+                    "tags": "ADVENTURE | AUSTRALIA | 1972 | G"
+                }
+            },
+            {
+                "name": "TV Shop - Home Shopping",
+                "link": "https://tvguide.9now.com.au/program/tv-shop-home-shopping/184500/",
+                "info": {
+                    "time": "8:00AM - 8:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Home shopping program.",
+                    "tags": "SHOPPING | USA | 2023 | G"
+                }
+            },
+            {
+                "name": "TV Shop - Home Shopping",
+                "link": "https://tvguide.9now.com.au/program/tv-shop-home-shopping/184500/",
+                "info": {
+                    "time": "8:30AM - 9:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Home shopping program.",
+                    "tags": "SHOPPING | USA | 2023 | G"
+                }
+            },
+            {
+                "name": "TV Shop - Home Shopping",
+                "link": "https://tvguide.9now.com.au/program/tv-shop-home-shopping/184500/",
+                "info": {
+                    "time": "9:00AM - 9:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Home shopping program.",
+                    "tags": "SHOPPING | USA | 2023 | G"
+                }
+            },
+            {
+                "name": "New Style Direct",
+                "link": "https://tvguide.9now.com.au/program/new-style-direct/239529/",
+                "info": {
+                    "time": "9:30AM - 10:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Home shopping program.",
+                    "tags": "SHOPPING | AUSTRALIA | 2019 | G"
+                }
+            },
+            {
+                "name": "Adventures in Rainbow Country",
+                "link": "https://tvguide.9now.com.au/program/adventures-in-rainbow-country/135735/",
+                "info": {
+                    "time": "10:00AM - 10:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Follows the adventures of a teenager named Billy Williams and his friend Pete Gawa in northern Ontario.",
+                    "tags": "CHILDREN | CANADA | 1970 | G"
+                }
+            },
+            {
+                "name": "Pointless",
+                "link": "https://tvguide.9now.com.au/program/pointless/325129/",
+                "info": {
+                    "time": "10:30AM - 11:30AM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Hosted by Alexander Armstrong. Four teams of two contestants attempt to find correct answers to four rounds of general knowledge questions, with the winning team eligible to compete for the show's cash jackpot.",
+                    "tags": "GAME SHOW | UK | 2023 | PG"
+                }
+            },
+            {
+                "name": "My Favorite Martian",
+                "link": "https://tvguide.9now.com.au/program/my-favorite-martian/376328/",
+                "info": {
+                    "time": "11:30AM - 12:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Tim gets a secret message and becomes a spy.",
+                    "tags": "COMEDY | USA | 1964 | G"
+                }
+            },
+            {
+                "name": "Days of Our Lives",
+                "link": "https://tvguide.9now.com.au/program/days-of-our-lives/133294/",
+                "info": {
+                    "time": "12:00PM - 12:55PM",
+                    "subtitles": "None",
+                    "repeat": "",
+                    "description": "Maggie and Justin make a shocking discovery in Victor's will; Vivian puts pressure on Alex.",
+                    "tags": "SOAP OPERA | USA | 2023 | M"
+                }
+            },
+            {
+                "name": "Days of Our Lives",
+                "link": "https://tvguide.9now.com.au/program/days-of-our-lives/133294/",
+                "info": {
+                    "time": "12:55PM - 1:50PM",
+                    "subtitles": "None",
+                    "repeat": "",
+                    "description": "Chloe has a big decision to make; Sarah has conflicting feelings about the upcoming nuptials.",
+                    "tags": "SOAP OPERA | USA | 2023 | M"
+                }
+            },
+            {
+                "name": "World's Greatest Transportation Marvels",
+                "link": "https://tvguide.9now.com.au/program/worlds-greatest-transportation-marvels/434353/",
+                "info": {
+                    "time": "1:50PM - 3:00PM",
+                    "subtitles": "None",
+                    "repeat": "",
+                    "description": "Ports, Canals, and Bridges examines humanity's relationship with the sea, from Porto's mediaeval wine trade to the modern Port of Antwerp and Suez Canal.",
+                    "tags": "DOCUMENTARY | AUSTRALIA | 2024 | PG"
+                }
+            },
+            {
+                "name": "Explore TV",
+                "link": "https://tvguide.9now.com.au/program/explore-tv/168173/",
+                "info": {
+                    "time": "3:00PM - 3:30PM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Join Trevor Cochrane as he heads on the journey of a lifetime across 2 continents. Starting in the South American City of Buenos Aires, he discovers the heart and soul of this amazing Argentinian city.",
+                    "tags": "TRAVEL | AUSTRALIA | 2024 | G"
+                }
+            },
+            {
+                "name": "The Angry Silence",
+                "link": "https://tvguide.9now.com.au/program/the-angry-silence/129091/",
+                "info": {
+                    "time": "3:30PM - 5:30PM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "A young factory worker decides to stand up against his workmates and fellow union members when they want to hold a wildcat strike.",
+                    "tags": "DRAMA | UK | 1960 | PG"
+                }
+            },
+            {
+                "name": "Our Yorkshire Farm",
+                "link": "https://tvguide.9now.com.au/program/our-yorkshire-farm/400455/",
+                "info": {
+                    "time": "5:30PM - 6:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "June has arrived and, with summer upon them, the family are clearing their meadows as they have a month to get the farm ready for hay-making time. The family plan a nice birthday surprise for Violet.",
+                    "tags": "DOCUMENTARY | UK | 2021 | PG"
+                }
+            },
+            {
+                "name": "Antiques Roadshow",
+                "link": "https://tvguide.9now.com.au/program/antiques-roadshow/130628/",
+                "info": {
+                    "time": "6:30PM - 7:30PM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Fiona Bruce travels across various regions of the UK, appraising antiques brought in by local people. Some seemingly inexpensive antiques turn out to be worth an amazing amount.",
+                    "tags": "LIFESTYLE | UK | 2016 | G"
+                }
+            },
+            {
+                "name": "Death in Paradise",
+                "link": "https://tvguide.9now.com.au/program/death-in-paradise/283024/",
+                "info": {
+                    "time": "7:30PM - 8:40PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Florence finds herself emotionally involved in a case when a former schoolmate is found dead at the foot of a cliff.",
+                    "tags": "CRIME | UK | 2017 | M"
+                }
+            },
+            {
+                "name": "The Good Karma Hospital",
+                "link": "https://tvguide.9now.com.au/program/the-good-karma-hospital/361363/",
+                "info": {
+                    "time": "8:40PM - 9:40PM",
+                    "subtitles": "None",
+                    "repeat": "",
+                    "description": "AJ returns to the hospital keen to impress, Aisha and Lydia come to blows managing Jyoti's case, and Greg discovers a shocking secret that Tommy has been hiding.",
+                    "tags": "DRAMA | UK | 2019 | M"
+                }
+            },
+            {
+                "name": "The Madame Blanc Mysteries",
+                "link": "https://tvguide.9now.com.au/program/the-madame-blanc-mysteries/420967/",
+                "info": {
+                    "time": "9:40PM - 10:40PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Jean and Dom help Caron solve a murder in a remote country mansion. A mysterious key could hold the solution, but what does it open? Meanwhile, love rolls into town for Gloria.",
+                    "tags": "DRAMA | UK | 2022 | M"
+                }
+            },
+            {
+                "name": "The Closer",
+                "link": "https://tvguide.9now.com.au/program/the-closer/132636/",
+                "info": {
+                    "time": "10:40PM - 11:40PM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Brenda digs up clues to the apparent gang-related slaying of three youths, one of whom has a personal connection to Taylor.",
+                    "tags": "DRAMA | USA | 2006 | M"
+                }
+            },
+            {
+                "name": "Only Fools and Horses...",
+                "link": "https://tvguide.9now.com.au/program/only-fools-and-horses-/142782/",
+                "info": {
+                    "time": "11:40PM - 12:20AM",
+                    "subtitles": "None",
+                    "repeat": "",
+                    "description": "When Trigger's grandmother passes away, Del spots the chance to make a few bob.",
+                    "tags": "COMEDY | UK | 1982 | M"
+                }
             }
         ],
         "9Go!": [
@@ -152,6 +1120,424 @@
                     "repeat": "REPEAT",
                     "description": "Oliver is shot and turns to Felicity for help. While he hovers between life and death, Oliver recalls a daring escape attempt with Slade Wilson on the island.",
                     "tags": "ACTION | USA | 2012 | M"
+                }
+            },
+            {
+                "name": "Young Sheldon",
+                "link": "https://tvguide.9now.com.au/program/young-sheldon/370297/",
+                "info": {
+                    "time": "2:30AM - 3:00AM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Mandy gets an exciting job opportunity; Sheldon worries that he's falling behind; Georgie takes his daughter to work.",
+                    "tags": "COMEDY | USA | 2022 | PG"
+                }
+            },
+            {
+                "name": "Beyblade X",
+                "link": "https://tvguide.9now.com.au/program/beyblade-x/430291/",
+                "info": {
+                    "time": "3:00AM - 3:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Amateur blader Bird Kazami travels to \"X City\" to become a pro. He's defeated by rookie Takumi Ishiyama. A mysterious blader Kamen X invites him to join a new team.",
+                    "tags": "ANIMATION | JAPAN | 2023 | PG"
+                }
+            },
+            {
+                "name": "Beyblade X",
+                "link": "https://tvguide.9now.com.au/program/beyblade-x/430291/",
+                "info": {
+                    "time": "3:30AM - 4:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Kurosu X aims to reach X Tower's top again. Bird's bey is lost, but a stranger lends him one. They enter the \"Pro Selection Tournament\" to become pros, facing skilled blader Multi Nanairo.",
+                    "tags": "ANIMATION | JAPAN | 2023 | PG"
+                }
+            },
+            {
+                "name": "Bakugan",
+                "link": "https://tvguide.9now.com.au/program/bakugan/424834/",
+                "info": {
+                    "time": "4:00AM - 4:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Dan becomes a viral joke after a corndog-themed video made without his permission leaks. Drago attempts to distract Dan from seeing the video while the others race to get it taken down.",
+                    "tags": "ANIMATION | JAPAN | 2023 | PG"
+                }
+            },
+            {
+                "name": "Transformers: Bumblebee: Cyberverse Adventures",
+                "link": "https://tvguide.9now.com.au/program/transformers-bumblebee-cyberverse-adventures/397373/",
+                "info": {
+                    "time": "4:30AM - 4:50AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Follow the adventures of Bumblebee as he and Windblade try to recover his missing memories after damaging his memory chip. With the Decepticons after their friends, Bumblebee must find his missing memories to remember his mission on Earth.",
+                    "tags": "ANIMATION | USA | 2020 | PG"
+                }
+            },
+            {
+                "name": "Lego City Adventures",
+                "link": "https://tvguide.9now.com.au/program/lego-city-adventures/386534/",
+                "info": {
+                    "time": "4:50AM - 5:10AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "It's a mad dash by Buster to retrieve his runaway moustache./ Grizzled and Rooky go undercover to root out the criminal mastermind behind a counterfeit pie operation.",
+                    "tags": "ANIMATION | USA | 2020 | PG"
+                }
+            },
+            {
+                "name": "Lego Friends: The Next Chapter",
+                "link": "https://tvguide.9now.com.au/program/lego-friends-the-next-chapter/422160/",
+                "info": {
+                    "time": "5:10AM - 5:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Paisley is fatigued by Olly's obsession with their fame. Zac confronts Olly, It's clear that he's wrapped up in fame and can't see what he's doing.",
+                    "tags": "CHILDREN | USA | 2023 | PG"
+                }
+            },
+            {
+                "name": "Pokemon the Series: Sun & Moon",
+                "link": "https://tvguide.9now.com.au/program/pokemon-the-series-sun-and-moon/362366/",
+                "info": {
+                    "time": "5:30AM - 6:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "A celebratory Pokemon School class trip turns out to be a reunion no one will ever forget.",
+                    "tags": "ANIMATION | JAPAN | 2016 | G"
+                }
+            },
+            {
+                "name": "Hop",
+                "link": "https://tvguide.9now.com.au/program/hop/433927/",
+                "info": {
+                    "time": "6:00AM - 6:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Through a series of coincidences, Hop believes he has superpowers. / With Penny away, Hop is overwhelmed running the diner. Filipa makes him a robot to help out.",
+                    "tags": "ANIMATION | USA | 2024 | G"
+                }
+            },
+            {
+                "name": "Bubble's Hotel",
+                "link": "https://tvguide.9now.com.au/program/bubbles-hotel/433691/",
+                "info": {
+                    "time": "6:30AM - 7:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Bubble and Nabi must help their kite-loving guest land safely before the Island winds sweep him out to sea. / When a guest-built robot goes on the fritz.",
+                    "tags": "ANIMATION | CANADA | 2024 | G"
+                }
+            },
+            {
+                "name": "Bakugan",
+                "link": "https://tvguide.9now.com.au/program/bakugan/424834/",
+                "info": {
+                    "time": "7:00AM - 7:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "A young Aquatic Clan brawler and his Bakugan partner, Octogan, visit the Misfit Mod in need of an unlikely favour.",
+                    "tags": "ANIMATION | JAPAN | 2023 | PG"
+                }
+            },
+            {
+                "name": "The Actually Really Very Difficult Show",
+                "link": "https://tvguide.9now.com.au/program/the-actually-really-very-difficult-show/424606/",
+                "info": {
+                    "time": "7:30AM - 8:00AM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Make sure your safety goggles are on tight because it's gonna get messy in this episode all about science!",
+                    "tags": "CHILDREN | AUSTRALIA | 2023 | C"
+                }
+            },
+            {
+                "name": "Beyblade Burst Quadstrike",
+                "link": "https://tvguide.9now.com.au/program/beyblade-burst-quadstrike/421550/",
+                "info": {
+                    "time": "8:00AM - 8:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Training at the battle camp is not letting up, and some Bladers have more trouble following Wakiya's rules than others. Bel goes off script, declaring a rematch with his new rival Hyuga.",
+                    "tags": "ANIMATION | JAPAN | 2022 | PG"
+                }
+            },
+            {
+                "name": "Wild Manes",
+                "link": "https://tvguide.9now.com.au/program/wild-manes/433805/",
+                "info": {
+                    "time": "8:30AM - 9:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "While serving drinks at her cart, Cocoa notices Candi acting suspiciously. Determined to uncover the mystery, Cocoa follows Candi discreetly.",
+                    "tags": "CARTOON | CANADA | 2024 | G"
+                }
+            },
+            {
+                "name": "Barbie: A Touch of Magic",
+                "link": "https://tvguide.9now.com.au/program/barbie-a-touch-of-magic/424415/",
+                "info": {
+                    "time": "9:00AM - 9:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Barbie loses her job at the waterpark, but decides to end on a high note by directing a play with Skipper. Meanwhile, Blissa the cat gets wished into a dragon while Teresa babysits Chelsea and Stacie.",
+                    "tags": "CARTOON | CANADA | 2023 | G"
+                }
+            },
+            {
+                "name": "Yu-Gi-Oh! SEVENS",
+                "link": "https://tvguide.9now.com.au/program/yu-gi-oh-sevens/414040/",
+                "info": {
+                    "time": "9:30AM - 10:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "It's Maximum Monster against Maximum Monster as Yuga and Nail fight for the fate of Rush Duels.",
+                    "tags": "ANIMATION | JAPAN | 2022 | PG"
+                }
+            },
+            {
+                "name": "Ninjago",
+                "link": "https://tvguide.9now.com.au/program/ninjago/263239/",
+                "info": {
+                    "time": "10:00AM - 10:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "The ninja embark on a rescue mission to an uncharted island; Nya leads the ninja on an undersea mission where they uncover a dangerous new foe.",
+                    "tags": "CHILDREN | DENMARK | 2021 | PG"
+                }
+            },
+            {
+                "name": "Pokemon Horizons: The Series",
+                "link": "https://tvguide.9now.com.au/program/pokemon-horizons-the-series/427703/",
+                "info": {
+                    "time": "10:30AM - 11:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "While shopping in a seaside town, Liko and Roy receive a strange invitation to battle.",
+                    "tags": "ANIMATION | USA | 2023 | PG"
+                }
+            },
+            {
+                "name": "Transformers: Bumblebee: Cyberverse Adventures",
+                "link": "https://tvguide.9now.com.au/program/transformers-bumblebee-cyberverse-adventures/397373/",
+                "info": {
+                    "time": "11:00AM - 11:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "The peace treaty between the Autobots and Decepticons is put to the test when a new threat arrives, bringing a war from another reality.",
+                    "tags": "ANIMATION | USA | 2021 | PG"
+                }
+            },
+            {
+                "name": "Bakugan",
+                "link": "https://tvguide.9now.com.au/program/bakugan/424834/",
+                "info": {
+                    "time": "11:30AM - 12:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "A young Aquatic Clan brawler and his Bakugan partner, Octogan, visit the Misfit Mod in need of an unlikely favour.",
+                    "tags": "ANIMATION | JAPAN | 2023 | PG"
+                }
+            },
+            {
+                "name": "Gossip Girl",
+                "link": "https://tvguide.9now.com.au/program/gossip-girl/216332/",
+                "info": {
+                    "time": "12:00PM - 1:00PM",
+                    "subtitles": "None",
+                    "repeat": "",
+                    "description": "Blair is ready to enjoy her bachelorette party ahead of her royal wedding, but other people have their own plans to make it a night to remember.",
+                    "tags": "DRAMA | USA | 2011 | M"
+                }
+            },
+            {
+                "name": "Gossip Girl",
+                "link": "https://tvguide.9now.com.au/program/gossip-girl/216332/",
+                "info": {
+                    "time": "1:00PM - 2:00PM",
+                    "subtitles": "None",
+                    "repeat": "",
+                    "description": "Blair tells Serena what really happened after her tragic accident with Chuck, and Nate uncovers information about the incident which points to foul play.",
+                    "tags": "DRAMA | USA | 2011 | M"
+                }
+            },
+            {
+                "name": "Bewitched",
+                "link": "https://tvguide.9now.com.au/program/bewitched/100196/",
+                "info": {
+                    "time": "2:00PM - 2:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Samantha goes up against city hall to get a traffic light for Morning Glory Circle.",
+                    "tags": "SITCOM | USA | 1964 | G"
+                }
+            },
+            {
+                "name": "I Dream of Jeannie",
+                "link": "https://tvguide.9now.com.au/program/i-dream-of-jeannie/134059/",
+                "info": {
+                    "time": "2:30PM - 3:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Feeling sorry for Roger, Jeannie makes all women who see him fall madly in love with him, including the girlfriend of a mobster.",
+                    "tags": "SITCOM | USA | 1966 | G"
+                }
+            },
+            {
+                "name": "The Golden Girls",
+                "link": "https://tvguide.9now.com.au/program/the-golden-girls/145157/",
+                "info": {
+                    "time": "3:00PM - 3:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Based on Sophia's inside information that a famous artist is on death's doorstep, the ladies plan to spend their all on one of his paintings, and cash in when he checks out.",
+                    "tags": "SITCOM | USA | 1988 | PG"
+                }
+            },
+            {
+                "name": "The Nanny",
+                "link": "https://tvguide.9now.com.au/program/the-nanny/134184/",
+                "info": {
+                    "time": "3:30PM - 4:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Aunt Freida decides to get back at Sylvia for not letting her sing at the wedding and buys her condo, leaving her with no place to go. So Sylvia and Morty move into the Sheffield mansion.",
+                    "tags": "SITCOM | USA | 1998 | PG"
+                }
+            },
+            {
+                "name": "The Nanny",
+                "link": "https://tvguide.9now.com.au/program/the-nanny/134184/",
+                "info": {
+                    "time": "4:00PM - 4:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Maxwell's old college friend, Rodney, is in town, and asks Max to loan him $1 million. Before they close the deal, Max has to fly to London, and Rodney takes the chance to get the money from Fran. However, news arrives that Rodney is flat broke.",
+                    "tags": "SITCOM | USA | 1998 | PG"
+                }
+            },
+            {
+                "name": "The Addams Family",
+                "link": "https://tvguide.9now.com.au/program/the-addams-family/100388/",
+                "info": {
+                    "time": "4:30PM - 5:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Morticia thinks marriage counselling would be the perfect career choice for Cousin Itt. To prove it to him, she and Gomez pretend to be a couple in trouble.",
+                    "tags": "COMEDY | USA | 1964 | G"
+                }
+            },
+            {
+                "name": "Bewitched",
+                "link": "https://tvguide.9now.com.au/program/bewitched/100196/",
+                "info": {
+                    "time": "5:00PM - 5:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "When disguised as Samantha for a dress fitting, Endora meets an intriguing author and decides to try out the mortal lifestyle. Gladys Kravitz sees them together.",
+                    "tags": "SITCOM | USA | 1964 | G"
+                }
+            },
+            {
+                "name": "I Dream of Jeannie",
+                "link": "https://tvguide.9now.com.au/program/i-dream-of-jeannie/134059/",
+                "info": {
+                    "time": "5:30PM - 6:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Jeannie writes a book on childcare using Tony's name which then becomes a best seller.",
+                    "tags": "SITCOM | USA | 1966 | G"
+                }
+            },
+            {
+                "name": "The Golden Girls",
+                "link": "https://tvguide.9now.com.au/program/the-golden-girls/145157/",
+                "info": {
+                    "time": "6:00PM - 6:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Blanche's dating slump has led her to date a shallow, insensitive snob who both Dorothy and Rose think is beneath her.",
+                    "tags": "SITCOM | USA | 1988 | PG"
+                }
+            },
+            {
+                "name": "The Nanny",
+                "link": "https://tvguide.9now.com.au/program/the-nanny/134184/",
+                "info": {
+                    "time": "6:30PM - 7:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "After Fran undergoes a sonogram, the doctor delivers some exciting news to the proud parents-to-be; Fran's upset when Brighton goes on a tour of Ivy League universities and denies her request to accompany him.",
+                    "tags": "SITCOM | USA | 1998 | PG"
+                }
+            },
+            {
+                "name": "The Nanny",
+                "link": "https://tvguide.9now.com.au/program/the-nanny/134184/",
+                "info": {
+                    "time": "7:00PM - 7:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Maxwell is offered to turn one of his failed plays into a movie, and tells Fran they might be moving to California. However, Fran is afraid the news is going to devastate her mother.",
+                    "tags": "SITCOM | USA | 1998 | PG"
+                }
+            },
+            {
+                "name": "Seinfeld",
+                "link": "https://tvguide.9now.com.au/program/seinfeld/100362/",
+                "info": {
+                    "time": "7:30PM - 8:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Kramer gets ready for his new job as Santa Claus at Coleman's department store, with Mickey as his elf.",
+                    "tags": "SITCOM | USA | 1994 | PG"
+                }
+            },
+            {
+                "name": "Seinfeld",
+                "link": "https://tvguide.9now.com.au/program/seinfeld/100362/",
+                "info": {
+                    "time": "8:00PM - 8:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "George meets an old friend who's spent the last few months undergoing chemotherapy that everyone knew about except him, while Kramer calls a litterbug a \"pig\" near a cop who's on a quest to catch a long-time parking ticket scofflaw.",
+                    "tags": "SITCOM | USA | 1994 | PG"
+                }
+            },
+            {
+                "name": "King Arthur: Legend of the Sword",
+                "link": "https://tvguide.9now.com.au/program/king-arthur-legend-of-the-sword/348450/",
+                "info": {
+                    "time": "8:30PM - 11:00PM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Robbed of his birthright, Arthur comes up the hard way in the back alleys of the city. Once he pulls the sword from the stone, he is forced to acknowledge his true legacy.",
+                    "tags": "DRAMA | USA | 2017 | M"
+                }
+            },
+            {
+                "name": "Seinfeld",
+                "link": "https://tvguide.9now.com.au/program/seinfeld/100362/",
+                "info": {
+                    "time": "11:00PM - 11:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Kramer gets ready for his new job as Santa Claus at Coleman's department store, with Mickey as his elf.",
+                    "tags": "SITCOM | USA | 1994 | PG"
+                }
+            },
+            {
+                "name": "Seinfeld",
+                "link": "https://tvguide.9now.com.au/program/seinfeld/100362/",
+                "info": {
+                    "time": "11:30PM - 12:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "George meets an old friend who's spent the last few months undergoing chemotherapy that everyone knew about except him, while Kramer calls a litterbug a \"pig\" near a cop who's on a quest to catch a long-time parking ticket scofflaw.",
+                    "tags": "SITCOM | USA | 1994 | PG"
                 }
             }
         ],
@@ -188,6 +1574,358 @@
                     "description": "Guest presenter Yvie Jones finds New York inspired pizza in Thornbury. Madeline experiences small town charm in the street of Birregurra. Shane discovers hidden gems in Keilor. And Steve embraces fun activities in the Bayside.",
                     "tags": "TRAVEL | AUSTRALIA | 2025 | PG"
                 }
+            },
+            {
+                "name": "Getaway",
+                "link": "https://tvguide.9now.com.au/program/getaway/132183/",
+                "info": {
+                    "time": "2:30AM - 3:00AM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "David Reyne is in Norway discovering the epic scenery, magnificent fjords, and picture perfect towns this Scandinavian masterpiece is famous for.",
+                    "tags": "TRAVEL | AUSTRALIA | 2019 | PG"
+                }
+            },
+            {
+                "name": "Beachfront Bargain Hunt",
+                "link": "https://tvguide.9now.com.au/program/beachfront-bargain-hunt/344639/",
+                "info": {
+                    "time": "3:00AM - 3:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "A Texas couple that love fishing look for a place to escape their busy lives. After falling in love with the great fishing in the Florida Keys, they hope to find a dream beach home.",
+                    "tags": "REALITY/REAL-LIFE | USA | 2021 | G"
+                }
+            },
+            {
+                "name": "Beachfront Bargain Hunt",
+                "link": "https://tvguide.9now.com.au/program/beachfront-bargain-hunt/344639/",
+                "info": {
+                    "time": "3:30AM - 4:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "A Colorado bachelor headed to the sparkling waters of the Florida Keys to pursue his dream job must navigate through the local market to find a deal on a beachside oasis.",
+                    "tags": "REALITY/REAL-LIFE | USA | 2021 | G"
+                }
+            },
+            {
+                "name": "House Hunters International",
+                "link": "https://tvguide.9now.com.au/program/house-hunters-international/222441/",
+                "info": {
+                    "time": "4:00AM - 4:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "A Vancouver family in search of work-life balance gets an offer they can't refuse in Dublin.",
+                    "tags": "LIFESTYLE | USA | 2024 | G"
+                }
+            },
+            {
+                "name": "House Hunters International",
+                "link": "https://tvguide.9now.com.au/program/house-hunters-international/222441/",
+                "info": {
+                    "time": "4:30AM - 5:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "After spending half of their marriage living apart, a couple leaves their hectic jobs and moves to Mexico. With less income, he wants a more budget-conscious life.",
+                    "tags": "LIFESTYLE | USA | 2024 | G"
+                }
+            },
+            {
+                "name": "Fixer to Fabulous",
+                "link": "https://tvguide.9now.com.au/program/fixer-to-fabulous/397522/",
+                "info": {
+                    "time": "5:00AM - 6:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "A couple inherits a home that's been in their family for many years, and now they want to turn it into a place for future generations to enjoy.",
+                    "tags": "REALITY/REAL-LIFE | USA | 2023 | G"
+                }
+            },
+            {
+                "name": "Nate & Jeremiah Save My House",
+                "link": "https://tvguide.9now.com.au/program/nate-and-jeremiah-save-my-house/422215/",
+                "info": {
+                    "time": "6:00AM - 7:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Brandy and Steve are novices to renovation and the projects they've attempted have failed. Watch as Nate and Jeremiah help them create a home where they connect better as a family and create memories.",
+                    "tags": "LIFESTYLE | USA | 2020 | PG"
+                }
+            },
+            {
+                "name": "House Hunters International",
+                "link": "https://tvguide.9now.com.au/program/house-hunters-international/222441/",
+                "info": {
+                    "time": "7:00AM - 7:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Newly engaged San Francisco accountants see their job transfer as a chance to live it up before settling down in London.",
+                    "tags": "LIFESTYLE | USA | 2022 | G"
+                }
+            },
+            {
+                "name": "Fixer Upper",
+                "link": "https://tvguide.9now.com.au/program/fixer-upper/319221/",
+                "info": {
+                    "time": "7:30AM - 8:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Matt and Samantha Hardy look to move from Austin to Waco, Texas, and purchase their first house together.",
+                    "tags": "LIFESTYLE | USA | 2017 | PG"
+                }
+            },
+            {
+                "name": "No Demo Reno",
+                "link": "https://tvguide.9now.com.au/program/no-demo-reno/411252/",
+                "info": {
+                    "time": "8:30AM - 9:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "After getting married, a couple bought their beautiful Tudor home, started a business, had a baby and now another is on the way. Jenn looks to heighten their Tudor vibe and create a cohesive, cozy space.",
+                    "tags": "REALITY/REAL-LIFE | USA | 2023 | G"
+                }
+            },
+            {
+                "name": "Unsellable Houses",
+                "link": "https://tvguide.9now.com.au/program/unsellable-houses/399227/",
+                "info": {
+                    "time": "9:30AM - 10:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Siblings struggling to sell their sister's home need Lyndsay and Leslie's expertise. The twins redefine the dated two-bedroom rambler into a modern three-bedroom farmhouse with a deck.",
+                    "tags": "REALITY/REAL-LIFE | USA | 2020 | G"
+                }
+            },
+            {
+                "name": "Postcards",
+                "link": "https://tvguide.9now.com.au/program/postcards/133224/",
+                "info": {
+                    "time": "10:30AM - 11:00AM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Guest presenter Yvie Jones finds New York inspired pizza in Thornbury. Madeline experiences small town charm in the street of Birregurra. Shane discovers hidden gems in Keilor. And Steve embraces fun activities in the Bayside.",
+                    "tags": "TRAVEL | AUSTRALIA | 2025 | PG"
+                }
+            },
+            {
+                "name": "House Hunters",
+                "link": "https://tvguide.9now.com.au/program/house-hunters/176646/",
+                "info": {
+                    "time": "11:00AM - 11:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "A newly single woman starts a new chapter in her life and searches for a home in Connecticut.",
+                    "tags": "LIFESTYLE | USA | 2022 | G"
+                }
+            },
+            {
+                "name": "Getaway",
+                "link": "https://tvguide.9now.com.au/program/getaway/132183/",
+                "info": {
+                    "time": "11:30AM - 12:00PM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "David Reyne is in Norway discovering the epic scenery, magnificent fjords, and picture perfect towns this Scandinavian masterpiece is famous for.",
+                    "tags": "TRAVEL | AUSTRALIA | 2019 | PG"
+                }
+            },
+            {
+                "name": "Country House Hunters: New Zealand",
+                "link": "https://tvguide.9now.com.au/program/country-house-hunters-new-zealand/419285/",
+                "info": {
+                    "time": "12:00PM - 12:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Couple Alma and Charlie relocate from the UK to countryside New Zealand to be closer to family.",
+                    "tags": "LIFESTYLE | NEW ZEALAND | 2023 | G"
+                }
+            },
+            {
+                "name": "Country House Hunters: New Zealand",
+                "link": "https://tvguide.9now.com.au/program/country-house-hunters-new-zealand/419285/",
+                "info": {
+                    "time": "12:30PM - 1:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "The team hunt for a family home in Rotorua, in the North Island. They meet Michelle and family friend James, looking for a home large enough for Michelle's family, and their mountain bikes.",
+                    "tags": "LIFESTYLE | NEW ZEALAND | 2023 | G"
+                }
+            },
+            {
+                "name": "Nate & Jeremiah Save My House",
+                "link": "https://tvguide.9now.com.au/program/nate-and-jeremiah-save-my-house/422215/",
+                "info": {
+                    "time": "1:00PM - 2:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Brandy and Steve are novices to renovation and the projects they've attempted have failed. Watch as Nate and Jeremiah help them create a home where they connect better as a family and create memories.",
+                    "tags": "LIFESTYLE | USA | 2020 | PG"
+                }
+            },
+            {
+                "name": "Fixer to Fabulous",
+                "link": "https://tvguide.9now.com.au/program/fixer-to-fabulous/397522/",
+                "info": {
+                    "time": "2:00PM - 3:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "A couple inherits a home that's been in their family for many years, and now they want to turn it into a place for future generations to enjoy.",
+                    "tags": "REALITY/REAL-LIFE | USA | 2023 | G"
+                }
+            },
+            {
+                "name": "The Block",
+                "link": "https://tvguide.9now.com.au/program/the-block/153946/",
+                "info": {
+                    "time": "3:00PM - 4:00PM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Sara is elated when her secret weapon arrives. Courtney and Hans cannot stay at the Block, so Scott sends all the couples for a night away in Bendigo.",
+                    "tags": "LIFESTYLE | AUSTRALIA | 2018 | PG"
+                }
+            },
+            {
+                "name": "Reno My Rental",
+                "link": "https://tvguide.9now.com.au/program/reno-my-rental/415408/",
+                "info": {
+                    "time": "4:00PM - 4:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Carmeon Hamilton helps a creative couple transform their brown kitchen and nondescript terrace into eclectic spaces they will love.",
+                    "tags": "LIFESTYLE | USA | 2021 | G"
+                }
+            },
+            {
+                "name": "Frozen in Time",
+                "link": "https://tvguide.9now.com.au/program/frozen-in-time/414263/",
+                "info": {
+                    "time": "4:30PM - 5:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Brian and Mary are overwhelmed with the amount of work that needs to go into their 1950 home. Maureen and Dan come up with a design plan that will make the home current but save the history.",
+                    "tags": "LIFESTYLE | USA | 2020 | G"
+                }
+            },
+            {
+                "name": "Zombie House Flipping",
+                "link": "https://tvguide.9now.com.au/program/zombie-house-flipping/351025/",
+                "info": {
+                    "time": "5:00PM - 6:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Looks can be deceiving. This Derek special is set in a posh neighborhood on a treelined street and from the outside it doesn't look like your typical Zombie.",
+                    "tags": "LIFESTYLE | USA | 2024 | PG"
+                }
+            },
+            {
+                "name": "House Hunters International",
+                "link": "https://tvguide.9now.com.au/program/house-hunters-international/222441/",
+                "info": {
+                    "time": "6:00PM - 6:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "An Oregon couple takes on a new opportunity and leaves small-town life behind for Tarragona, Spain; with limited options for work, finding a place on a student budget is a challenge.",
+                    "tags": "LIFESTYLE | USA | 2022 | G"
+                }
+            },
+            {
+                "name": "House Hunters",
+                "link": "https://tvguide.9now.com.au/program/house-hunters/176646/",
+                "info": {
+                    "time": "6:30PM - 7:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "A Redding, CA, couple with two daughters are eager to move out of her parents' home and find their own place. He wants a fixer-upper in the country with lots of land, but she prefers a move-in ready in town that's close to her family.",
+                    "tags": "LIFESTYLE | USA | 2020 | G"
+                }
+            },
+            {
+                "name": "House Hunters",
+                "link": "https://tvguide.9now.com.au/program/house-hunters/176646/",
+                "info": {
+                    "time": "7:00PM - 7:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "A Chicago couple struggles to commit to buying a home after a recent move to Fort Lauderdale, Florida.",
+                    "tags": "LIFESTYLE | USA | 2021 | G"
+                }
+            },
+            {
+                "name": "House Hunters International",
+                "link": "https://tvguide.9now.com.au/program/house-hunters-international/222441/",
+                "info": {
+                    "time": "7:30PM - 8:00PM",
+                    "subtitles": "None",
+                    "repeat": "",
+                    "description": "Influenced by Maori culture, a Ph.D. from New Jersey and his chef husband relocate to New Zealand. But finding a home that suits both their needs is a challenge.",
+                    "tags": "LIFESTYLE | USA | 2024 | G"
+                }
+            },
+            {
+                "name": "House Hunters International",
+                "link": "https://tvguide.9now.com.au/program/house-hunters-international/222441/",
+                "info": {
+                    "time": "8:00PM - 8:30PM",
+                    "subtitles": "None",
+                    "repeat": "",
+                    "description": "A young Canadian couple is ready to embrace adulthood in the Netherlands. They're facing a daunting list of firsts, and enduring their first disagreement may be a challenge.",
+                    "tags": "LIFESTYLE | USA | 2024 | G"
+                }
+            },
+            {
+                "name": "Backed by the Bros",
+                "link": "https://tvguide.9now.com.au/program/backed-by-the-bros/431910/",
+                "info": {
+                    "time": "8:30PM - 9:30PM",
+                    "subtitles": "None",
+                    "repeat": "",
+                    "description": "Jonathan and Drew must decide whether to back an overwhelmed investor that is possibly sitting on a goldmine, or a flipping couple who secured an enviable property but have no idea if they should renovate.",
+                    "tags": "REALITY/REAL-LIFE | USA | 2024 | PG"
+                }
+            },
+            {
+                "name": "Bargain Mansions",
+                "link": "https://tvguide.9now.com.au/program/bargain-mansions/374977/",
+                "info": {
+                    "time": "9:30PM - 10:30PM",
+                    "subtitles": "None",
+                    "repeat": "",
+                    "description": "Tamara and her father, Ward, discuss their favorite home reveals they've designed over the years. Watch as they revisit gorgeous homes from seasons past and share what made them their favorites.",
+                    "tags": "REALITY/REAL-LIFE | USA | 2022 | G"
+                }
+            },
+            {
+                "name": "Bargain Mansions",
+                "link": "https://tvguide.9now.com.au/program/bargain-mansions/374977/",
+                "info": {
+                    "time": "10:30PM - 11:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Tamara Day works on restoring a 1909 Craftsman home, opening up its meandering layout, and ripping out the tacky additions that have stripped the house of its original charm.",
+                    "tags": "REALITY/REAL-LIFE | USA | 2017 | G"
+                }
+            },
+            {
+                "name": "Bargain Mansions",
+                "link": "https://tvguide.9now.com.au/program/bargain-mansions/374977/",
+                "info": {
+                    "time": "11:00PM - 11:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Tamara continues renovating a 1909 Craftsman home, transforming a small bedroom into the master bath. She refurbishes French doors, vintage sinks and a tub. During the walkthrough, Tamara discovers the creepiest thing she's ever found.",
+                    "tags": "REALITY/REAL-LIFE | USA | 2017 | G"
+                }
+            },
+            {
+                "name": "House Hunters International",
+                "link": "https://tvguide.9now.com.au/program/house-hunters-international/222441/",
+                "info": {
+                    "time": "11:30PM - 12:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "An Oregon couple takes on a new opportunity and leaves small-town life behind for Tarragona, Spain; with limited options for work, finding a place on a student budget is a challenge.",
+                    "tags": "LIFESTYLE | USA | 2022 | G"
+                }
             }
         ],
         "9Rush": [
@@ -211,6 +1949,325 @@
                     "repeat": "REPEAT",
                     "description": "Experts reveal how a bird could sing without using its voice and how an octopus could simply disappear from his aquarium tank. These could be two of nature's greatest illusionists.",
                     "tags": "DOCUMENTARY | USA | 2019 | PG"
+                }
+            },
+            {
+                "name": "Nature's Strangest Mysteries: Solved",
+                "link": "https://tvguide.9now.com.au/program/natures-strangest-mysteries-solved/387087/",
+                "info": {
+                    "time": "2:00AM - 2:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Experts reveal what animals are breaking into thousands of cars every year, how ants form a 10-foot bridge using only their bodies and why the fish crossed the road.",
+                    "tags": "DOCUMENTARY | USA | 2019 | PG"
+                }
+            },
+            {
+                "name": "NASA's Unexplained Files",
+                "link": "https://tvguide.9now.com.au/program/nasas-unexplained-files/286473/",
+                "info": {
+                    "time": "2:30AM - 3:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Astronauts are evacuated when a mystery object is discovered hurtling towards the ISS.",
+                    "tags": "DOCUMENTARY | UK | 2019 | PG"
+                }
+            },
+            {
+                "name": "How It's Made",
+                "link": "https://tvguide.9now.com.au/program/how-its-made/190824/",
+                "info": {
+                    "time": "3:30AM - 4:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Discover how belts and 3-D metal printers are manufactured. Also, see how detectable warning panels and model Stirling engines are constructed.",
+                    "tags": "DOCUMENTARY | CANADA | 2024 | PG"
+                }
+            },
+            {
+                "name": "How It's Made",
+                "link": "https://tvguide.9now.com.au/program/how-its-made/190824/",
+                "info": {
+                    "time": "4:00AM - 4:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Explore the construction behind skiffs and compression and extension springs. See how micro drill bits and painted glass backsplashes are manufactured.",
+                    "tags": "DOCUMENTARY | CANADA | 2024 | PG"
+                }
+            },
+            {
+                "name": "Drive TV",
+                "link": "https://tvguide.9now.com.au/program/drive-tv/410613/",
+                "info": {
+                    "time": "4:30AM - 5:00AM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "Emma and Sharlene take a luxury Swedish SUV on a girls' trip for some sand, beach, surf and banging sounds across northern NSW.",
+                    "tags": "LIFESTYLE | AUSTRALIA | 2022 | G"
+                }
+            },
+            {
+                "name": "Tanked",
+                "link": "https://tvguide.9now.com.au/program/tanked/279541/",
+                "info": {
+                    "time": "5:00AM - 6:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "R&B singer Keyshia Cole is literally dreaming of a beautiful saltwater aquarium in her home and wants to make it a reality, and fortunately for ATM, Keyshia's social media followers led her to them.",
+                    "tags": "DOCUMENTARY | USA | 2018 | PG"
+                }
+            },
+            {
+                "name": "Salvage Hunters",
+                "link": "https://tvguide.9now.com.au/program/salvage-hunters/274485/",
+                "info": {
+                    "time": "6:00AM - 7:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Seeing an untapped source of rare items, Drew tours Catalonia looking for some chic Spanish antiques. In Peralada, Drew is blown away by a 17th century house full of treasures.",
+                    "tags": "DOCUMENTARY | UK | 2018 | PG"
+                }
+            },
+            {
+                "name": "How It's Made",
+                "link": "https://tvguide.9now.com.au/program/how-its-made/190824/",
+                "info": {
+                    "time": "7:00AM - 7:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Explore the construction behind fencing masks, ocean drone transformers and 3-D puzzles. Also, discover how books are printed.",
+                    "tags": "DOCUMENTARY | CANADA | 2024 | PG"
+                }
+            },
+            {
+                "name": "How It's Made",
+                "link": "https://tvguide.9now.com.au/program/how-its-made/190824/",
+                "info": {
+                    "time": "7:30AM - 8:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Discover how tin whistles and horn products are produced. Also, explore the construction behind Formula F race cars.",
+                    "tags": "DOCUMENTARY | CANADA | 2024 | PG"
+                }
+            },
+            {
+                "name": "Wheeler Dealers",
+                "link": "https://tvguide.9now.com.au/program/wheeler-dealers/165093/",
+                "info": {
+                    "time": "8:00AM - 9:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Mike finds an Alfa Romeo GTV with some fails, but nothing that he reckons Elvis can't sort. He plans to go to Italy to recreate the GTV Cup. Can they get the GTV ready for an Italian road trip?",
+                    "tags": "LIFESTYLE | UK | 2022 | PG"
+                }
+            },
+            {
+                "name": "Tanked",
+                "link": "https://tvguide.9now.com.au/program/tanked/279541/",
+                "info": {
+                    "time": "9:00AM - 10:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Donut Mania is Brett's newest business venture and they are about to have their grand opening. Wayde and the whole team want to congratulate him with a surprise fish tank.",
+                    "tags": "DOCUMENTARY | USA | 2018 | PG"
+                }
+            },
+            {
+                "name": "Off the Hook",
+                "link": "https://tvguide.9now.com.au/program/off-the-hook/290490/",
+                "info": {
+                    "time": "10:00AM - 10:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Pro wrestler \"Showtime\" Eric Young is on a journey into the world of extreme and unusual fishing.",
+                    "tags": "DOCUMENTARY | USA | 2013 | PG"
+                }
+            },
+            {
+                "name": "Off the Hook",
+                "link": "https://tvguide.9now.com.au/program/off-the-hook/290490/",
+                "info": {
+                    "time": "10:30AM - 11:00AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Pro wrestler \"Showtime\" Eric Young is on a journey into the world of extreme and unusual fishing.",
+                    "tags": "DOCUMENTARY | USA | 2013 | PG"
+                }
+            },
+            {
+                "name": "Salvage Hunters",
+                "link": "https://tvguide.9now.com.au/program/salvage-hunters/274485/",
+                "info": {
+                    "time": "11:00AM - 12:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Seeing an untapped source of rare items, Drew tours Catalonia looking for some chic Spanish antiques. In Peralada, Drew is blown away by a 17th century house full of treasures.",
+                    "tags": "DOCUMENTARY | UK | 2018 | PG"
+                }
+            },
+            {
+                "name": "Nature's Strangest Mysteries: Solved",
+                "link": "https://tvguide.9now.com.au/program/natures-strangest-mysteries-solved/387087/",
+                "info": {
+                    "time": "12:00PM - 12:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Experts reveal how a bird could sing without using its voice and how an octopus could simply disappear from his aquarium tank. These could be two of nature's greatest illusionists.",
+                    "tags": "DOCUMENTARY | USA | 2019 | PG"
+                }
+            },
+            {
+                "name": "Nature's Strangest Mysteries: Solved",
+                "link": "https://tvguide.9now.com.au/program/natures-strangest-mysteries-solved/387087/",
+                "info": {
+                    "time": "12:30PM - 1:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Experts reveal what animals are breaking into thousands of cars every year, how ants form a 10-foot bridge using only their bodies and why the fish crossed the road.",
+                    "tags": "DOCUMENTARY | USA | 2019 | PG"
+                }
+            },
+            {
+                "name": "Ancient Aliens",
+                "link": "https://tvguide.9now.com.au/program/ancient-aliens/254488/",
+                "info": {
+                    "time": "1:00PM - 2:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "In China, hundreds of strange disks are discovered in a cave that appear to be of an ancient extraterrestrial crash on Earth, the disks are confiscated by the Chinese government and dismissed as a hoax.",
+                    "tags": "DOCUMENTARY | USA | 2023 | PG"
+                }
+            },
+            {
+                "name": "Wheeler Dealers",
+                "link": "https://tvguide.9now.com.au/program/wheeler-dealers/165093/",
+                "info": {
+                    "time": "2:00PM - 3:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Mike finds an Alfa Romeo GTV with some fails, but nothing that he reckons Elvis can't sort. He plans to go to Italy to recreate the GTV Cup. Can they get the GTV ready for an Italian road trip?",
+                    "tags": "LIFESTYLE | UK | 2022 | PG"
+                }
+            },
+            {
+                "name": "How It's Made",
+                "link": "https://tvguide.9now.com.au/program/how-its-made/190824/",
+                "info": {
+                    "time": "3:00PM - 3:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Explore the construction behind fencing masks, ocean drone transformers and 3-D puzzles. Also, discover how books are printed.",
+                    "tags": "DOCUMENTARY | CANADA | 2024 | PG"
+                }
+            },
+            {
+                "name": "How It's Made",
+                "link": "https://tvguide.9now.com.au/program/how-its-made/190824/",
+                "info": {
+                    "time": "3:30PM - 4:00PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Discover how tin whistles and horn products are produced. Also, explore the construction behind Formula F race cars.",
+                    "tags": "DOCUMENTARY | CANADA | 2024 | PG"
+                }
+            },
+            {
+                "name": "Drive TV",
+                "link": "https://tvguide.9now.com.au/program/drive-tv/410613/",
+                "info": {
+                    "time": "4:00PM - 4:30PM",
+                    "subtitles": "CC",
+                    "repeat": "REPEAT",
+                    "description": "A road trip to Hyams Beach, a place that holds the Guinness record for the whitest sand in the world; dispelling range anxiety myths with Europe's first electric SUV.",
+                    "tags": "LIFESTYLE | AUSTRALIA | 2022 | PG"
+                }
+            },
+            {
+                "name": "Salvage Hunters",
+                "link": "https://tvguide.9now.com.au/program/salvage-hunters/274485/",
+                "info": {
+                    "time": "4:30PM - 5:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Seeing an untapped source of rare items, Drew tours Catalonia looking for some chic Spanish antiques. In Peralada, Drew is blown away by a 17th century house full of treasures.",
+                    "tags": "DOCUMENTARY | UK | 2018 | PG"
+                }
+            },
+            {
+                "name": "Tanked",
+                "link": "https://tvguide.9now.com.au/program/tanked/279541/",
+                "info": {
+                    "time": "5:30PM - 6:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Donut Mania is Brett's newest business venture and they are about to have their grand opening. Wayde and the whole team want to congratulate him with a surprise fish tank.",
+                    "tags": "DOCUMENTARY | USA | 2018 | PG"
+                }
+            },
+            {
+                "name": "Wheeler Dealers",
+                "link": "https://tvguide.9now.com.au/program/wheeler-dealers/165093/",
+                "info": {
+                    "time": "6:30PM - 7:30PM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Mike finds an Alfa Romeo GTV with some fails, but nothing that he reckons Elvis can't sort. He plans to go to Italy to recreate the GTV Cup. Can they get the GTV ready for an Italian road trip?",
+                    "tags": "LIFESTYLE | UK | 2022 | PG"
+                }
+            },
+            {
+                "name": "Bering Sea Gold",
+                "link": "https://tvguide.9now.com.au/program/bering-sea-gold/283636/",
+                "info": {
+                    "time": "7:30PM - 8:30PM",
+                    "subtitles": "None",
+                    "repeat": "",
+                    "description": "Shawn's ready to get the remastered Myrtle Irene onto the water. Zeke helps on Vernon's claim. Emily hopes to add to her squad. Kris and his crew finally head to Elim.",
+                    "tags": "DOCUMENTARY | USA | 2021 | M"
+                }
+            },
+            {
+                "name": "Aussie Gold Hunters: Mine SOS",
+                "link": "https://tvguide.9now.com.au/program/aussie-gold-hunters-mine-sos/415692/",
+                "info": {
+                    "time": "8:30PM - 9:30PM",
+                    "subtitles": "None",
+                    "repeat": "",
+                    "description": "Paul Mackie and the team try to find the causes of a two-year dry streak that threatens to end the dreams of rookie prospectors Chris Moore and Vince Federici.",
+                    "tags": "DOCUMENTARY | AUSTRALIA | 2022 | PG"
+                }
+            },
+            {
+                "name": "Gold Rush: White Water",
+                "link": "https://tvguide.9now.com.au/program/gold-rush-white-water/373924/",
+                "info": {
+                    "time": "9:30PM - 10:30PM",
+                    "subtitles": "None",
+                    "repeat": "",
+                    "description": "Dustin Hurt faces a dilemma: Risk his life and financial ruin by purchasing and mining one of the most legendary and inhospitable claims in Alaska or play it safe in the white water of McKinley Creek.",
+                    "tags": "REALITY/REAL-LIFE | USA | 2022 | M"
+                }
+            },
+            {
+                "name": "Gold Rush: Dave Turin's Lost Mine",
+                "link": "https://tvguide.9now.com.au/program/gold-rush-dave-turins-lost-mine/384017/",
+                "info": {
+                    "time": "10:30PM - 11:30PM",
+                    "subtitles": "None",
+                    "repeat": "",
+                    "description": "Dave tests positive for COVID-19 and entrusts mechanic Nathan with a solo prospect deep in the wilderness. Equipment breakdowns force Andrew to step up.",
+                    "tags": "DOCUMENTARY | USA | 2022 | M"
+                }
+            },
+            {
+                "name": "Bering Sea Gold",
+                "link": "https://tvguide.9now.com.au/program/bering-sea-gold/283636/",
+                "info": {
+                    "time": "11:30PM - 12:30AM",
+                    "subtitles": "None",
+                    "repeat": "REPEAT",
+                    "description": "Shawn's ready to get the remastered Myrtle Irene onto the water. Zeke helps on Vernon's claim. Emily hopes to add to her squad. Kris and his crew finally head to Elim.",
+                    "tags": "DOCUMENTARY | USA | 2021 | M"
                 }
             }
         ]
